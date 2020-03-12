@@ -1,1 +1,3 @@
 fajl3 prva verzija
+
+file 3 modified
