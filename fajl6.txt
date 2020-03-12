@@ -1,3 +1,6 @@
 file6.txt added by developer1
 
+
 --modified by developer2
+
+--modified by developer 1
