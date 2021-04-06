@@ -3,3 +3,4 @@ file8 branch dev2
 branch dev2 2021
 branch dev1 2021
 
+dev1 dodao jos nesto a fali mu i staro sa mastera(ono sto je dodavao dev2)
